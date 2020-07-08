@@ -8,6 +8,7 @@
 </head>
 <body>
 	<p>웹 페이지를 생성했습니다.</p>
+	<a href="https://github.com/chominseok/gitTest">gitTest 사이트로 이동</a>
 	
 	<ul>
 		<li><a href="test1">get방식 서블릿으로 만들기1</a></li>
